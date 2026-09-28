@@ -1,4 +1,4 @@
-# Shipshape desktop downloads
+# DJ Companion 
 
 This repository distributes compiled desktop installer binaries only. The application source code is not published here.
 
