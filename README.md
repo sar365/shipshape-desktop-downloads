@@ -1,14 +1,17 @@
-# DJ Companion 
+# DJ Companion downloads
 
-This repository distributes compiled desktop installer binaries only. The application source code is not published here.
+This public repository distributes compiled desktop installer binaries only. Application source code is not published here. A binary-only download is not tamper-proof: Electron application code can be extracted or modified in a local copy.
 
 ## Latest release
 
-Download the Windows x64 installer from the [v1.0.0 release](https://github.com/sar365/shipshape-desktop-downloads/releases/tag/v1.0.0).
+Download [DJ Companion 1.0.1 — Windows x64](https://github.com/sar365/shipshape-desktop-downloads/releases/tag/v1.0.1).
 
-- File: `Shipshape-1.0.0-win-x64.exe`
-- SHA-256: `35b8f4aa391c9b2feb90949991bedd8d48f6b0d861989700df847f9c49ea5972`
+- File: `DJ-Companion-1.0.1-win-x64.exe`
+- Size: 116,901,202 bytes
+- SHA-256: `bcebbc569dbdfeb4ef1ce4e8d2d6af4c3fdd87ce190ce84a525ca75133be3c4c`
+- Signing: unsigned; Windows may show an Unknown Publisher or SmartScreen warning.
+- Scope: starter desktop shell; it does not yet include DJ-specific track-library, set-planning, cue-point, or mixer features.
 
-## Important notes
+## Previous release
 
-The installer is unsigned, so Windows may display an unknown-publisher warning. This is a binary-only distribution, not tamper-proof protection: Electron JavaScript can be extracted or modified in a person's local copy.
+- [Shipshape 1.0.0 — Windows x64](https://github.com/sar365/shipshape-desktop-downloads/releases/tag/v1.0.0) — previous branded version.
